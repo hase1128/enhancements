@@ -368,3 +368,5 @@ _This section must be completed when targeting beta graduation to a release._
 
 * 2020-09-01: KEP proposed
 * 2020-09-28: PRR questionnaire updated
+* [Mutating admission webhook which injects trace context for demo](https://github.com/Hellcatlk/mutating-trace-admission-controller/tree/trace-ot)
+* [Instrumentation of Kubernetes components for demo](https://github.com/Hellcatlk/kubernetes/tree/trace-ot)
